@@ -1,0 +1,47 @@
+# Built application files
+*.apk
+*.aab
+*.ap_
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+app/build/
+opencv/build/
+
+# Gradle files
+.gradle/
+build/
+.kotlin/
+
+# OpenCV unused static archives, tools, and native C++ headers (only native/libs is used by jniLibs)
+opencv/native/staticlibs/
+opencv/native/3rdparty/
+opencv/native/bin/
+opencv/native/jni/
+
+# Local configuration file (contains local SDK paths, credentials, keystores)
+local.properties
+
+# Log Files
+*.log
+
+# Android Studio / IntelliJ IDEA
+*.iml
+.idea/
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS generated files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ClearShot AI</string>
+    <string name="camera_permission_title">Camera Access Required</string>
+    <string name="camera_permission_rationale">ClearShot AI requires camera access to preview and capture high-resolution computational photos.</string>
+    <string name="grant_permission">Grant Access</string>
+    <string name="capture_photo">Capture Photo</string>
+    <string name="flash_mode">Flash Mode</string>
+    <string name="zoom_level">Zoom</string>
+    <string name="photo_saved_toast">Photograph saved to Gallery (DCIM/ClearShot)</string>
+    <string name="photo_save_failed">Failed to save photograph</string>
+</resources>
